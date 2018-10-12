@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name": "Thạch Linh",
+        "phone":"0933901737",
+        "permission":1
+    },
+    {
+        "id": 2,
+        "name": "Thạch Vân",
+        "phone": "01223037440",
+        "permission": 1
+    },
+    {
+        "id": 3,
+        "name": "Thạch Hương",
+        "phone": "0939325201",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Bùi Lâm",
+        "phone": "01288454445",
+        "permission": 2
+    },
+    {
+        "id": 5,
+        "name": "Sỳ Khánh",
+        "phone": "0995599889",
+        "permission": 4
+    }
+]
