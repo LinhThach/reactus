@@ -25,7 +25,7 @@ class App extends Component {
 
   
   componentWillMount() {
-    if(localStorage.getItem('userData')===null){
+    if(localStorage.getItem('userData')==null){
       localStorage.setItem('userData',JSON.stringify(DataUser));
     } else {
       this.setState({
